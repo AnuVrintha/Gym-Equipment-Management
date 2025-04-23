@@ -15,11 +15,11 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 70px 20px 30px;
+    padding: 20px 40px 20px 30px;
 }
 .logo{
     color: #f79e56;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 600;
     text-decoration: none;
     cursor:default;
@@ -54,8 +54,8 @@ nav{
 }
 .search-box{
     background-color: white;
-    width: 500px;
-    margin: 20px auto;
+    width: 750px;
+    margin: 30px auto;
     padding: 6px 10px 6px 30px;
     border-radius: 50px;
 }
@@ -81,12 +81,9 @@ nav{
 }
 .search-box form button img{
     width: 15px;
-    margin-top: 5px;
+    margin-top: 7px;
 }
 .hunt-input{
-    flex: 1;
-}
-.wellness-input{
     flex: 1;
 }
 .search-box form label{
